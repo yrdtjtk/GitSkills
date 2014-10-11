@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Test branch confilict.
 aaa
 bbb
+ccc
