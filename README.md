@@ -9,3 +9,4 @@ b1b
 ccc
 ddd
 eee
+Test for stash.
