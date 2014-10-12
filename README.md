@@ -12,4 +12,5 @@ eee
 Test for stash.
 da tou da tou.
 xia yu bu chou.
+ren jia you san.
 wo you da tou.
