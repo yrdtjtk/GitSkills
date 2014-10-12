@@ -4,7 +4,7 @@ GitSkills
 Test Remote Clone.
 Creating a new branch is quick.
 Test branch confilict.
-aaa
+a1a
 bbb
 ccc
 ddd
